@@ -2,7 +2,7 @@
 
 Under review as a conference paper at ICLR 2024
 
-## Dataset Description 
+## Dataset Description
 
 We provide 11 hypergraph benchmark datasets that are used in our work. 
 Dataset statistics are as follows:
@@ -19,6 +19,8 @@ Dataset statistics are as follows:
 | ModelNet-40 | 12,311 | 12,311 | 100 | 40 |
 | News | 16,242 | 100 | 4 | 4 |
 | House | 1,290 | 341 | 100 | 2 |
+
+Datasets can be found in https://www.dropbox.com/scl/fi/pes0jgk0syrxosk71n1ua/datasets.zip?rlkey=h1r7j745z1a73qlrd6pv9ypcd&dl=0
 
 ## Code Description
 
