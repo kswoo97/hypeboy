@@ -20,7 +20,7 @@ Dataset statistics are as follows:
 | News | 16,242 | 100 | 4 | 4 |
 | House | 1,290 | 341 | 100 | 2 |
 
-Datasets can be found at https://www.dropbox.com/scl/fi/pes0jgk0syrxosk71n1ua/datasets.zip?rlkey=h1r7j745z1a73qlrd6pv9ypcd&dl=0.
+(Due to the file size of datasets) Datasets can be found at https://www.dropbox.com/scl/fi/pes0jgk0syrxosk71n1ua/datasets.zip?rlkey=h1r7j745z1a73qlrd6pv9ypcd&dl=0.
 
 Details of each dataset file are provided at README.txt in the provided datasets.zip of the above link.
 
