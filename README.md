@@ -1,4 +1,4 @@
-# HypeBoy: Generative Self-Supervised Representation Learning on Hypergraphs
+# [ICLR 2024] HypeBoy: Generative Self-Supervised Representation Learning on Hypergraphs
 
 ### Authors: Sunwoo Kim, Shinhwan Kang, Fanchen Bu, Soo Yong Lee, Jaemin Yoo, and Kijung Shin.
 ### Paper: https://openreview.net/forum?id=DZUzOKE6og
